@@ -1,0 +1,16 @@
+{
+  "minRequiredVersion": "1.0.0",
+  "title": "🎉 New Update Available!",
+  "message": "🎉 New challenges, 🎉 Decoy Locked Tiles. 🚀 New levels. Update to the latest version and continue your journey.",
+  "adsEnabled": {
+    "banner": false,
+    "interstitial": false,
+    "rewarded": false
+  },
+  "internetRequired": false,
+  "storeUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.ocensoft.wordsearchlegends",
+    "ios": "https://apps.apple.com/app/id6503901614"
+  }
+}
+
