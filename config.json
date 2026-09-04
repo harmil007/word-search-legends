@@ -1,11 +1,11 @@
 {
-  "minRequiredVersion": "1.0.5",
+  "minRequiredVersion": "1.0.23",
   "title": "🎉 New Update Available!",
   "message": "🎉 New grid. 🚀 New levels. Improved UI, Update to the latest version and continue your journey.",
   "adsEnabled": {
-    "banner": false,
+    "banner": true,
     "interstitial": false,
-    "rewarded": false
+    "rewarded": true
   },
   "internetRequired": false,
   "storeUrls": {
