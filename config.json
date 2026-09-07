@@ -4,13 +4,15 @@
   "message": "🎉 New grid. 🚀 New levels. Improved UI, Update to the latest version and continue your journey.",
   "adsEnabled": {
     "banner": true,
-    "interstitial": false,
+    "interstitial": true,
     "rewarded": true
   },
+  "interstitialIntervalLevels": 3,
+  "interstitialIntervalSeconds": 60,
+  "interstitialStartLevel": 1,
   "internetRequired": false,
   "storeUrls": {
     "android": "https://play.google.com/store/apps/details?id=com.ocensoft.wordsearchlegends",
     "ios": "https://apps.apple.com/app/id6503901614"
   }
 }
-
