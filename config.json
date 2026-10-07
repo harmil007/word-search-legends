@@ -7,8 +7,8 @@
     "interstitial": true,
     "rewarded": true
   },
-  "interstitialIntervalLevels": 3,
-  "interstitialIntervalSeconds": 60,
+  "interstitialIntervalLevels": 2,
+  "interstitialIntervalSeconds": 90,
   "interstitialStartLevel": 1,
   "internetRequired": false,
   "storeUrls": {
